@@ -1,0 +1,26 @@
+Nama	: Devi Fitri Anggreyani
+NIM	: 22416255201200
+Kelas	: IF22C
+
+Soal dan jawaban uts pemweb
+
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi? (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+jawab	: framework itu adalah sebuah alat bantu untuk membuat sebuah aplikasi dengan lebih mudah dan cepat yang digunakan oleh para pengembang aplikasi. Selain mempermudah dan mempercepat dalam pengerjaannya, framewok juga membatu untuk menjadi lebih terstruktur, rapi, dan aman. Salah satu web yang sering digunakan oleh para pengembang aplikasi yaitu bootstrap.
+
+2. Pertanyaan seputar projek
+
+a. Sebutkan tema proyek yang sedang digarap!
+Jawab: Tema projek yang sedang saya kerjakan dengan rekan satu tim saya yaitu lab dengan scope sarana dan prasarana dengan system peminjaman
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawab: 
+- Ludfi	: Jobdesk di projek ini sebagai analisis seperti pengerjaan desain uml dan desain database.
+- Devi	: Jobdesk sebagai focus terhadap laporan projek yang sedang berjalan.
+- Dzaky	: Jobdesk sebagai frontend di dalam project.
+
+Sebenarnya pembagian jobdesk ini menurut saya hanya formalitas semata. Karena dalam pengerjaan semuanya, kami kerjakan secara bareng bareng. Supaya masing masing dari kami mengerti dan paham semua kerangka dari awal hingga akhir final projek ini nanti.
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung! (jelaskan dengan bahasa yang mudah dimengerti, bukan secara harfiah/istilah)
+
+Jawab: Jadi permasalahan yang kita dapat setelah survei di laboratorium terpadu UBP dengan menyesuaikan tema kita yaitu lab dengan scope sarana dan prasarana dengan system peminjaman. Bahwa masalah yang ada yaitu dalam peminjaman masih secara manual tapi secara system untuk sarana prasarana sudah ada, jadi kita di sini sepakat dengan client bahwasan nya kita bakal membuat system yang sudah di buat dengan ditambahkannya system peminjaman.
